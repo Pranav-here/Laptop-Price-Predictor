@@ -2,7 +2,7 @@
 
 This project predicts the **price of a laptop** based on its configuration using a **machine learning regression model**. It includes a **Streamlit web interface** for user input and instant price prediction.
 
-🌐 **Live Demo**: *[Not provided]*
+🌐 **Live Demo**: *[]*
 
 ---
 
@@ -54,8 +54,7 @@ streamlit run app.py
 ## 📌 Author
 
 **Pranav Kuchibhotla**  
-🔗 [GitHub](https://github.com/Pranav-here) • 🌐 [Website](https://pranavkuchibhotla.vercel.app)
-
+🔗 [GitHub](https://github.com/Pranav-here) 
 ---
 
 ⚠️ This model is for educational purposes and works best on laptops similar to those in the dataset.
